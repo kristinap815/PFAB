@@ -1,0 +1,22 @@
+#! 
+first = "Kristin"
+last = "Powers"
+age = 34
+
+print first, last, age
+
+#  go fuck yourself, i don't know this theorum and I'm not spending all fucking afternoon doing this exercise
+#sideA = 12.55
+#sideB = 17.85
+#sideC = (sideC * sideC) = (sideA * sideA) + (sideB * sideB)
+
+operand1 = 95
+operand2 = 64.5
+
+print operand1 + operand2
+print operand1 - operand2
+print operand1 * operand2
+print operand1 / operand2
+print operand1 % operand2
+
+# This solution is best because if one operand changes, then only one variable would need to be rewritten, versus the entire program. 
